@@ -9,6 +9,7 @@
       "background-color": "#131217 !important"
    },
    ".part.sidebar": {
+      "font-family": "'Bear Sans UI', sans-serif !important",
       "margin": "8px 8px 0 20px",
       "border-radius": "24px !important",
       "overflow": "hidden !important",
