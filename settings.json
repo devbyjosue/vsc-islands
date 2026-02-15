@@ -34,7 +34,9 @@
       "letter-spacing": "1px !important"
    },
    ".part.sidebar .content": {
-      "width": "calc(100% - 20px) !important"
+      "width": "calc(100% - 20px) !important",
+      "padding-left": "10px !important",
+      "margin-left": "6px !important"
    },
    ".part.sidebar .welcome-view-content": {
       "max-width": "100% !important",
@@ -189,9 +191,17 @@
    ".results.show-file-icons": {
       "margin-bottom": "22px !important"
    },
+   ".extensions-search-container": {
+      "transform": "translateX(-6px) !important"
+   },
    ".extensions-search-container .suggest-input-container": {
       "border-radius": "9999px !important",
-      "overflow": "hidden !important"
+      "overflow": "hidden !important",
+      "font-size": "11px !important",
+      "--editor-font-size": "11px !important"
+   },
+   ".extensions-search-container .suggest-input-placeholder": {
+      "font-size": "11px !important"
    },
    ".scm-editor": {
       "border-radius": "9999px !important",
