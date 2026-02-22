@@ -521,5 +521,10 @@
    }
   },
 "workbench.iconTheme": "vs-seti-folder",
-"chat.viewSessions.orientation": "stacked"
+"window.menuBarVisibility": "hidden",
+"workbench.sideBar.location": "right",
+"workbench.activityBar.location": "default",
+"workbench.panel.defaultLocation": "left",
+"chat.viewSessions.orientation": "stacked",
+"chat.editor.showSessionsPanel": false
 }
