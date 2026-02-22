@@ -523,7 +523,7 @@
 "workbench.iconTheme": "vs-seti-folder",
 "window.menuBarVisibility": "hidden",
 "workbench.sideBar.location": "right",
-"workbench.activityBar.location": "default",
+"workbench.activityBar.location": "top",
 "workbench.panel.defaultLocation": "left",
 "chat.viewSessions.orientation": "stacked",
 "chat.editor.showSessionsPanel": false
